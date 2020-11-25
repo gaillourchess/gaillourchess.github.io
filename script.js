@@ -200,7 +200,7 @@ var makeBestMove = function () {
 var positionCount;
 var getBestMove = function (game) {
     if (game.game_over()) {
-        alert('Game over');
+        alert('A casa pete');
     }
 
     positionCount = 0;
