@@ -1,2 +1,3 @@
-# gaillourchess.github.io
-IA que juega ajedrez 
+# IA que juega Ajedrez
+
+Jugar [aca](https://gaillourchess.github.io)
